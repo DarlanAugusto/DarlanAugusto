@@ -1,8 +1,6 @@
 ### Olá, eu sou o Darlan Silva 👋
 
-- 🔭 Estou trabalhando como Desenvolvedor Jr
-- 🌱 Estudando ReactJS, Node.js, API's
-- 📞 Meu melhor contato: (18) 98148-7723
+👨🏾‍💻 Desenvolvedor Jr
 
 <div align="center">
   <a href="https://github.com/DarlanAugusto">
