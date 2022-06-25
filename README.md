@@ -1,6 +1,6 @@
 ### Olá, eu sou o Darlan Silva 👋
 
-👨🏾‍💻 Desenvolvedor Jr
+👨🏾‍💻 Desenvolvedor Full Stack Júnior
 
 <div align="center">
   <a href="https://github.com/DarlanAugusto">
